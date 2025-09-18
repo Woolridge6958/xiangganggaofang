@@ -1,4 +1,5 @@
-香港高防服务器选购指南：DDoS防护与高速稳定方案
+## [香港高防服务器选购指南：DDoS防护与高速稳定方案](https://www.hostifyx.com/zh/hk-ddos/)
+[TG：@HostifyX_Aaron](https://t.me/HostifyX_Aaron)
 
 
 在互联网业务高速发展的今天，**网络攻击** 尤其是 DDoS，已经成为个人和企业绕不开的挑战。一次严重的攻击，可能导致 **网站瘫痪、订单丢失、用户流失**。  
